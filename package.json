@@ -1,0 +1,12 @@
+{
+  "name": "@defihition/test2",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "https://github.com/defihition/test2.git",
+  "author": "Jamie",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
